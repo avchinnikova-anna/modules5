@@ -10,13 +10,13 @@ html, body {
 
 h1 {
     font-size: 36px;
-    color: #232323;
+    color: Pink;
     margin: 0;
     text-align: center;
 }
 
 nav {
-    height: 36px;
+    height: 42px;
     display: flex;
     justify-content: space-between;
     align-items: center;
